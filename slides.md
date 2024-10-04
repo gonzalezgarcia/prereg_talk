@@ -3,10 +3,10 @@ colorScheme: light
 routerMode: hash
 layout: cover
 theme: neversink
-neversink_slug: 
+neversink_slug: MSc in CogNeuro
 ---
 
-# My talk
+# Preregistration in Cognitive Neuroscience
 
 **Carlos González-García**  
 University of Granada
