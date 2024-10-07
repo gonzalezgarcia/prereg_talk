@@ -1,5 +1,5 @@
 ---
-colorScheme: light
+color: light
 routerMode: hash
 layout: cover
 theme: neversink
@@ -10,24 +10,82 @@ neversink_slug: MSc in CogNeuro
 
 **Carlos González-García**  
 University of Granada
+<Email v="cgonzalez@ugr.es" />
 
-
-
+<!-- slide 2 -->
 ---
 layout: side-title
-color: amber
+color: amber-light
 align : rm-lm
+titlewidth: is-3
 ---
 
 :: title ::
 
-# Slidev Neversink Theme
+# Outline
 
 :: content ::
 
-Neversink is theme for education and academic presentations.  It is designed to be bright, flat, minimal, and easy to read.  It is based on the default Slidev theme but with some additional features and color schemes that have reference in the [metropolis](https://github.com/matze/mtheme) Beamer theme among others.
+### **What** is preregistration?
+<br/><br/>
+### **Why** preregister?
+<br/><br/>
+### **How** to preregister?
 
-It is named for the [Neversink River](https://en.wikipedia.org/wiki/Neversink_River) for absolutely no discernable reason.
+<!-- slide 3 -->
+---
+layout: image-left
+image: https://cache.marieclaire.fr/data/photo/w1000_ci/1eb/test-de-rorschach.webp
+---
+
+<br></br>
+<br></br>
+
+"When not planned beforehand, data analysis can approximate a projective technique, such as the Rorschach, because ==the investigator can project on the data== his own expectancies, desires, or biases and can pull out of the data almost any “finding” he may desire."
+<br></br>
+
+— Theodore X. Barber (1976)
+
+<!-- slide 4 -->
+---
+layout: image-left
+image: https://upload.wikimedia.org/wikipedia/commons/1/1a/RichardFeynman-PaineMansionWoods1984_copyrightTamikoThiel_bw.jpg
+---
+
+<br></br>
+<br></br>
+
+"The first principle is that you must not fool yourself – ==and you are the easiest person to fool…== After you’ve not fooled yourself, it’s easy not to fool other scientists. You just have to be honest in a conventional way after that"
+<br></br>
+
+— Richard Feynman (1974)
+
+<!-- slide 5 -->
+---
+layout: top-title-two-cols
+color: amber-light
+align: l-lt-lt
+---
+
+:: title ::
+
+# What is a pregistration?
+
+:: left ::
+
+
+## A document that:
+- specifies research design and analysis plan *before* the project starts
+- is uploaded on dedicated repositories (e.g., OSF)
+- is made public, either immediately or after an embargo period
+
+*([Parsons et al., 2002](https://pure-oai.bham.ac.uk/ws/portalfiles/portal/163169671/Revision_1_Glossary_Manuscript_FORRT.pdf))*
+
+:: right ::
+
+test
+
+
 
 ---
 layout: default
@@ -294,17 +352,17 @@ I'm v-dragged out and ==floating==.
 layout: iframe-left
 title: iframe Left Layout
 # the web page source
-url: https://gonzalezgarcia.github.io/resources
+url: http://projects.fivethirtyeight.com/p-hacking/ 
 
 # a custom class name to the content
 class: my-cool-content-on-the-right
 ---
 
-<br />
+<br/>
 
-# This is a website on the left
+# Give p-hacking a try!
 
-This is useful for showing a website but loads live on the web so requires and internet connection.
+This website is a fun interactive demonstration of p-hacking.  It is a good way to learn about the concept and how it can be used to manipulate data.
 
 ---
 layout: two-cols-title
