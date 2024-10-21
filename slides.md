@@ -312,3 +312,16 @@ layout: default
   - Improves credibility and reproducibility of published work.
 
 
+---
+color: light
+routerMode: hash
+layout: cover
+theme: neversink
+neversink_slug: MSc in CogNeuro
+---
+
+# Preregistration in Cognitive Neuroscience
+
+**Carlos González-García**  
+University of Granada
+<Email v="cgonzalez@ugr.es" />
